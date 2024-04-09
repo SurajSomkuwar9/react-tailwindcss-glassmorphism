@@ -1,5 +1,7 @@
 # :heart: React + Tailwind CSS + Glassmorphism
 
+[Glassmorphism in tailwind other Resource](https://www.epicweb.dev/tips/creating-glassmorphism-effects-with-tailwind-css) by epicweb.dev
+
 This project uses Tailwind CSS to design a glassmorphism based portfolio website.
 
 :point_right: [CLICK HERE TO SEE IN YOUR BROWSER](https://luanedcosta.github.io/react-tailwindcss-glassmorphism/) :point_left:
